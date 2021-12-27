@@ -1,2 +1,4 @@
 akhilesh bisht
 data science
+print("I am awesome")
+print("Who are you??")
